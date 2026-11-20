@@ -1,3 +1,4 @@
+[![Built with askThili](https://ask.thili.ai/api/v1/public/projects/gawahetkn3/badge.svg)](https://ask.thili.ai/b/gawahetkn3)
 # Event Planning Request Sorter
 
 Classifies a short client request into venue, catering, transport or equipment. Run commands from this folder using Python 3.11 and PowerShell.
