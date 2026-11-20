@@ -1,0 +1,41 @@
+split,label,text
+train,venue inquiry,Is the ballroom available on Friday?
+train,venue inquiry,Can we tour the hall?
+train,venue inquiry,Need an outdoor space for eighty guests.
+train,venue inquiry,Does the hotel have a conference room?
+train,venue inquiry,How many people fit in the auditorium?
+train,venue inquiry,Please reserve the garden terrace.
+train,venue inquiry,Is there wheelchair access at the venue?
+train,venue inquiry,What is the rental fee for the banquet hall?
+test,venue inquiry,Do you have a covered location if it rains?
+test,venue inquiry,Could we book a rooftop for dinner?
+train,catering request,Can we arrange a vegetarian buffet?
+train,catering request,We need lunch for ninety delegates.
+train,catering request,Please send a sample dinner menu.
+train,catering request,Are gluten free meals available?
+train,catering request,Can your chef prepare Jain food?
+train,catering request,How much is the breakfast package?
+train,catering request,Please include tea and snacks.
+train,catering request,We need a nut free dessert option.
+test,catering request,Could the kitchen serve halal dishes?
+test,catering request,How many servers come with the buffet?
+train,transport request,Book a shuttle from the airport.
+train,transport request,Please arrange two coaches for our guests.
+train,transport request,Where will the bus pick us up?
+train,transport request,We need a car for the keynote speaker.
+train,transport request,Can you schedule return transfers?
+train,transport request,Please send the driver contact details.
+train,transport request,Could we hire a minibus?
+train,transport request,Guests require rides back to the hotel.
+test,transport request,Our flight lands late and we need a pickup.
+test,transport request,Can the coach make a second trip?
+train,equipment request,We need two wireless microphones.
+train,equipment request,Can you provide a projector?
+train,equipment request,Please set up speakers on stage.
+train,equipment request,Could we rent a large LED screen?
+train,equipment request,We need cables for the sound system.
+train,equipment request,Is a mixing desk available?
+train,equipment request,Can you supply lights for the stage?
+train,equipment request,The presenter needs a slide clicker.
+test,equipment request,Please bring a lapel mic for the panel.
+test,equipment request,Will the display accept HDMI input?
